@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://day8.github.io/re-frame" target="_blank" rel="noopener noreferrer"><img src="readme_assets/logo.png" alt="re-frame logo"></a></p>
+<p align="center"><a href="https://github.com/Abhijith14/JavaElab" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Abhijith14/JavaElab/blob/main/readme_assets/logo.png" alt="re-frame logo"></a></p>
 
 ## Java Elab Solutions
 
@@ -10,7 +10,7 @@
 
 ## Description
 
-Java Elab is a collection of Java Programs in SRM IST ELab. Each program is named with its ```questionname``` without space. The solutions consist of Question Number, Session, Question Desription and Code. If you like this repository, consider giving a ⭐ to this repo.
+Java Elab is a collection of Java Programs in SRM IST ELab. Each program is named with its ```questionname``` without space. The solutions consist of Question Number, Session, Question Desription and Code. If you like this repository, consider giving a ⭐ to [this repo](https://github.com/Abhijith14/JavaElab).
 
 ## References 
 
